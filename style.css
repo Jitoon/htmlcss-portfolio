@@ -1,0 +1,64 @@
+body{
+    background-color: #F9F7F7
+}
+
+#profile{
+    border-radius: 50%;
+    margin-bottom:100px;
+}
+
+h1{
+    font-family:serif;
+    font-size:4rem;
+}
+
+h2{
+    font-family:serif;
+    font-size:3rem;
+    font-weight: bold;
+}
+
+p{
+    font-family:"IBM Plex Serif", serif;
+}
+
+.aboutme{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.aboutme > p{
+    text-align: left;
+    padding-left: 50px;
+}
+.middle{
+    margin-left: 160px;
+    margin-top:130px;    
+}
+
+.image-title{
+    font-weight: bold;
+    margin-top: 30px;
+    text-align:justify;
+    font-size:large;
+}
+
+.getintouch{
+    margin-top: 200px;
+    text-align: center;
+}
+
+.getintouch > p{
+    font-size: 1.5rem;
+}
+
+.getintouch > h2{
+    padding-top: 30px;
+    padding-bottom: 15px;
+    color:#112D4E;
+}
+#myself{
+    border-radius: 5%;
+}
+
